@@ -2,6 +2,9 @@
 
 A machine learning project for multiclass text query classification using TF-IDF and Logistic Regression.
 
+## model_performance
+<img width="1182" height="429" alt="image" src="https://github.com/user-attachments/assets/bb3c7565-09ed-4ac4-bdd7-c4cbb116d8b0" />
+
 ## Problem Statement
 
 The objective of this project is to classify user text queries into predefined categories (intents). The project addresses challenges such as class imbalance, text preprocessing, and multiclass classification.
@@ -44,5 +47,3 @@ The objective of this project is to classify user text queries into predefined c
 
 Anuj Sharma
 
-## model_performance
-<img width="1182" height="429" alt="image" src="https://github.com/user-attachments/assets/bb3c7565-09ed-4ac4-bdd7-c4cbb116d8b0" />
