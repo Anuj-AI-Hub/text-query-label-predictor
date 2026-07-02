@@ -43,3 +43,6 @@ The objective of this project is to classify user text queries into predefined c
 ## Author
 
 Anuj Sharma
+
+## model_performance
+<img width="1182" height="429" alt="image" src="https://github.com/user-attachments/assets/bb3c7565-09ed-4ac4-bdd7-c4cbb116d8b0" />
